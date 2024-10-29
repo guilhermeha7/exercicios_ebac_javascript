@@ -9,3 +9,5 @@ function somaMultiplosDe5e7() {
 }
 
 console.log(somaMultiplosDe5e7());
+
+module.exports = { somaMultiplosDe5e7 };

@@ -12,3 +12,5 @@ let numero2 = 18;
 let resultado = calcularMDC(numero1, numero2);
 
 console.log("O MDC de " + numero1 + " e " + numero2 + " é: " + resultado);
+
+module.exports = { calcularMDC };

@@ -17,3 +17,5 @@ let resultado = indicesMaiorMenor(numeros);
 
 console.log("O índice do maior valor é: " + resultado.indiceMaior);
 console.log("O índice do menor valor é: " + resultado.indiceMenor);
+
+module.exports = { indicesMaiorMenor };
